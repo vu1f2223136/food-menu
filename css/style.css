@@ -1,0 +1,50 @@
+.margin{
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body{
+    background: #f3f3f3;
+    padding: 30px;
+}
+
+.menu-section{
+    max-width: 1200px;
+    margin: auto;
+    background: #fff;
+    border-radius: 16px;
+    padding: 30px;
+
+}
+
+.title{
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.title.span{
+    color: #ff9f0d;
+}
+
+.menu-grid{
+    margin-top: 30px;
+    display: grid;
+    gap: 20px;
+
+}
+
+.menu-section{
+    border: 1px solid #f1e3d3;
+    padding: 15px;
+    border-radius: 14px;
+    text-align: center;
+
+}
+
+.menu-card img{
+    width: 100%;
+    height: 180px;
+    object-fit: contain;
+}
